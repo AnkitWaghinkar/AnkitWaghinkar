@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 </picture>
 
 ###
+<img src="https://raw.githubusercontent.com/AnkitWaghinkar/AnkitWaghinkar/output/snake.svg" alt="Snake animation" />
+
+###
