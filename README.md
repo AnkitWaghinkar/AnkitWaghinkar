@@ -47,7 +47,7 @@ My portfolio reflects my blend of electronics engineering and web development in
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
 
 ---
@@ -67,7 +67,7 @@ My portfolio reflects my blend of electronics engineering and web development in
 
 ---
 
-### 🌐 Connect With Me  
+### My Portfolio  
 <p>
   <a href="https://ankitwaghinkar.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white" />
