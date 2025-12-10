@@ -68,6 +68,12 @@ My portfolio reflects my blend of electronics engineering and web development in
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Ankit+Waghinkar!;Python+Developer;Web+Developer;Tech+Enthusiast&center=true&size=25&color=00ADEF">
+</p>
+
+---
+
 ### My Portfolio  
 <p>
   <a href="https://ankitwaghinkar.github.io/Portfolio/" target="_blank">
