@@ -55,11 +55,11 @@ My portfolio reflects my blend of electronics engineering and web development in
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitWaghinkar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkitWaghinkar&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitWaghinkar&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AnkitWaghinkar&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
