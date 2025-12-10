@@ -74,6 +74,14 @@ My portfolio reflects my blend of electronics engineering and web development in
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnkitWaghinkar/AnkitWaghinkar/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
+
 ### My Portfolio  
 <p>
   <a href="https://ankitwaghinkar.github.io/Portfolio/" target="_blank">
