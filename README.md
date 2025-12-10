@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Waghinkar</h1>
-<h3 align="center">Electronics Engineer | IoT Developer | Web Developer</h3>
+<h3 align="center">Electronics and Telecommunication Engineer | IoT Developer | Web Developer</h3>
 
 ---
 
@@ -55,29 +55,15 @@ My portfolio reflects my blend of electronics engineering and web development in
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitWaghinkar&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkitWaghinkar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AnkitWaghinkar&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitWaghinkar&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitWaghinkar&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Ankit+Waghinkar!;Python+Developer;Web+Developer;Tech+Enthusiast&center=true&size=25&color=00ADEF">
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnkitWaghinkar/AnkitWaghinkar/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
