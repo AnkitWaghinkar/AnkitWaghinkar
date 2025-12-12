@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Waghinkar</h1>
-<h3 align="center">Electronics and Telecommunication Engineer | IoT Developer | Web Developer</h3>
+<h3 align="center">EXTC Engineer | IoT Developer | Web Developer</h3>
 
 ---
 
